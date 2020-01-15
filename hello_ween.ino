@@ -1,4 +1,5 @@
 #include <PololuLedStrip.h>
+
 // Define buttons 
 #define blueButton 3
 #define yellowButton 4
